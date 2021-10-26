@@ -5,3 +5,5 @@ Además, se quiere realizar un modelo de Machine Learning de predicción de prec
 
 Siendo más exacto, tengo 3 preguntas que se podrían resolver con este análisis; ¿En términos de presupuesto, de cuál manera es la más eficiente de ampliar vías en Bogotá? 
 , ¿Dónde vive la mayor cantidad de personas para priorizar rutas del próximo metro de Bogotá? y ¿Cuáles son las zonas que pueden llegar a valorizarse más? 
+
+Ayuda guía: https://www.kaggle.com/danieleduardofajardo/house-pricing-colombia
