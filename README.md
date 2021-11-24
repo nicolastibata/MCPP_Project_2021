@@ -5,4 +5,12 @@ Además, se quiere realizar un modelo de Machine Learning de predicción de prec
 
 Siendo más exacto, tengo 4 preguntas que se podrían resolver con este análisis; ¿Cuál es el mejor modelo de predicción? , ¿Cuáles son las zonas más inseguras?, ¿Cuáles las más costosas? y ¿Cómo puede ayudar esto en la política pública?
 
+Dicho repositorio se divide en cuatro partes:
+1. Selenium
+2. BeautifulSoup
+3. Data Analysis and Machine Learning
+4. Maps
+
+Además se puede revisar la documentacipon de bases de datos relacionales en SQL y un apartado de Redes Neuronales. 
+
 Ayuda guía: https://www.kaggle.com/danieleduardofajardo/house-pricing-colombia
