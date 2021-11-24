@@ -11,6 +11,6 @@ Dicho repositorio se divide en cuatro partes:
 3. Data Analysis and Machine Learning
 4. Maps
 
-Además se puede revisar la documentación de bases de datos relacionales en SQL y un apartado de Redes Neuronales. 
+Además se puede revisar la documentación de bases de datos relacionales en SQL y un apartado de Redes Neuronales, que son un apartado adicional del repositorio.
 
 Ayuda guía: https://www.kaggle.com/danieleduardofajardo/house-pricing-colombia
